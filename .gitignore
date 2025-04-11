@@ -1,0 +1,19 @@
+# macOS system files
+.DS_Store
+
+# Sublime Text project files
+*.sublime-workspace
+*.sublime-project
+
+# Node modules (por si alguna vez hacés proyectos con Node.js)
+node_modules/
+
+# Logs
+*.log
+
+# Environment config
+.env
+
+# Optional: system trash or metadata files
+.Trashes
+*.swp
