@@ -64,6 +64,7 @@ I consistently refactor and optimize my code, sometimes for efficiency, sometime
 | [`sumOfTwoLowestPositiveIntegers.js`](./sumOfTwoLowestPositiveIntegers.js) | Return the sum of the two smallest positive numbers | `sort()`, array slicing | 7kyu |
 | [`theHighestProfitWins.js`](./theHighestProfitWins.js) | - | - | - |
 | [`whoLikesIt.js`](./whoLikesIt.js) | - | - | - |
+| [`isIsogram.js`](./isIsogram.js) | check if a string is an isogram using Set and case normalization | `Set()`| 7kyu |
 
 ---
 
