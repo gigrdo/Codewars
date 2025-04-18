@@ -65,7 +65,7 @@ I consistently refactor and optimize my code, sometimes for efficiency, sometime
 | [`theHighestProfitWins.js`](./theHighestProfitWins.js) | - | - | - |
 | [`whoLikesIt.js`](./whoLikesIt.js) | - | - | - |
 | [`isIsogram.js`](./isIsogram.js) | check if a string is an isogram using Set and case normalization | `Set()`| 7kyu |
-
+| [`Function 2 - squaring an argument`](./squaringAnArgument.js) | Return the square of a number using multiplication | `square`| 8kyu |
 ---
 
 ## Recent Learning Highlights
