@@ -67,6 +67,7 @@ I consistently refactor and optimize my code, sometimes for efficiency, sometime
 | [`isIsogram.js`](./isIsogram.js) | check if a string is an isogram using Set and case normalization | `Set()`| 7kyu |
 | [`Function 2 - squaring an argument`](./squaringAnArgument.js) | Return the square of a number using multiplication | `square`| 8kyu |
 | [Remove the minimum](https://www.codewars.com/kata/563cf89eb4747c5fb100001b/train/javascript) | 7kyu | Remove the smallest number from an array without mutating it |
+
 ---
 
 ## Recent Learning Highlights
@@ -84,5 +85,14 @@ I consistently refactor and optimize my code, sometimes for efficiency, sometime
 Solving is just the start.  
 I care about why things work, how clean the solution is, and how it could scale or integrate in real-world contexts.  
 Whether working solo or as part of a team, I focus on writing logic that’s intentional, consistent, and easy to build on.
+
+---
+
+### Bonus: Alternative Solutions
+
+Explore extra versions, clever experiments, and one-liner variations in [`alt-solutions.js`](./alt-solutions.js).
+
+This file collects alternate solutions for katas already solved in the main table above.
+It’s a space for learning, exploring different approaches, and seeing how a single problem can be solved in multiple ways.
 
 <a class="github-button" href="https://github.com/gigrdo/Codewars" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-size="large" aria-label="Star gigrdo/Codewars on GitHub">Star</a>
