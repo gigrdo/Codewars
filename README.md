@@ -67,6 +67,8 @@ I consistently refactor and optimize my code, sometimes for efficiency, sometime
 | [`isIsogram.js`](./isIsogram.js) | check if a string is an isogram using Set and case normalization | `Set()`| 7kyu |
 | [`Function 2 - squaring an argument`](./squaringAnArgument.js) | Return the square of a number using multiplication | `square`| 8kyu |
 | [Remove the minimum](https://www.codewars.com/kata/563cf89eb4747c5fb100001b/train/javascript) | 7kyu | Remove the smallest number from an array without mutating it |
+| [You're a square!](https://www.codewars.com/kata/54c27a33fb7da0db0100040e) | 7kyu | Check if a number is a perfect square |
+
 
 ---
 
