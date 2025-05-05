@@ -68,8 +68,8 @@ I consistently refactor and optimize my code, sometimes for efficiency, sometime
 | [`Function 2 - squaring an argument`](./squaringAnArgument.js) | Return the square of a number using multiplication | `square`| 8kyu |
 | [Remove the minimum](https://www.codewars.com/kata/563cf89eb4747c5fb100001b/train/javascript) | 7kyu | Remove the smallest number from an array without mutating it |
 | [You're a square!](https://www.codewars.com/kata/54c27a33fb7da0db0100040e) | 7kyu | Check if a number is a perfect square |
-
-
+| [`array.diff.js`](./arrayDiff.js) | filter values in array A that exist in B |
+| [Array.diff](https://www.codewars.com/kata/523f5d21c841566fde000009) | Remove all elements in A that exist in B | `filter()`, `includes()` | 6kyu |
 ---
 
 ## Recent Learning Highlights
