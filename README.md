@@ -70,6 +70,7 @@ I consistently refactor and optimize my code, sometimes for efficiency, sometime
 | [You're a square!](https://www.codewars.com/kata/54c27a33fb7da0db0100040e) | 7kyu | Check if a number is a perfect square |
 | [`array.diff.js`](./arrayDiff.js) | filter values in array A that exist in B |
 | [Array.diff](https://www.codewars.com/kata/523f5d21c841566fde000009) | Remove all elements in A that exist in B | `filter()`, `includes()` | 6kyu |
+| [Counting sheep...](https://www.codewars.com/kata/54edbc7200b811e956000556) | 8kyu | Count the number of `true` values in an array |
 ---
 
 ## Recent Learning Highlights
