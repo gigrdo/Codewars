@@ -72,6 +72,7 @@ I consistently refactor and optimize my code, sometimes for efficiency, sometime
 | [Array.diff](https://www.codewars.com/kata/523f5d21c841566fde000009) | Remove all elements in A that exist in B | `filter()`, `includes()` | 6kyu |
 | [Counting sheep...](https://www.codewars.com/kata/54edbc7200b811e956000556) | 8kyu | Count the number of `true` values in an array |
 | [Bouncing Balls](https://www.codewars.com/kata/5544c7a5cb454edb3c000047) | 6kyu | Count how many times a ball passes in front of a window while bouncing |
+| [Two Sum](https://www.codewars.com/kata/52c31f8e6605bcc646000082) | 6kyu | Find two indices whose values add up to the target |
 
 ---
 
