@@ -73,6 +73,7 @@ I consistently refactor and optimize my code, sometimes for efficiency, sometime
 | [Counting sheep...](https://www.codewars.com/kata/54edbc7200b811e956000556) | 8kyu | Count the number of `true` values in an array |
 | [Bouncing Balls](https://www.codewars.com/kata/5544c7a5cb454edb3c000047) | 6kyu | Count how many times a ball passes in front of a window while bouncing |
 | [Two Sum](https://www.codewars.com/kata/52c31f8e6605bcc646000082) | 6kyu | Find two indices whose values add up to the target |
+| [Is the string uppercase?](https://www.codewars.com/kata/56cd44e1aa4ac7879200010b) | 8kyu | Implement isUpperCase() on String prototype |
 
 ---
 
