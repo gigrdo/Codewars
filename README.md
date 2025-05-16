@@ -74,6 +74,7 @@ I consistently refactor and optimize my code, sometimes for efficiency, sometime
 | [Bouncing Balls](https://www.codewars.com/kata/5544c7a5cb454edb3c000047) | 6kyu | Count how many times a ball passes in front of a window while bouncing |
 | [Two Sum](https://www.codewars.com/kata/52c31f8e6605bcc646000082) | 6kyu | Find two indices whose values add up to the target |
 | [Is the string uppercase?](https://www.codewars.com/kata/56cd44e1aa4ac7879200010b) | 8kyu | Implement isUpperCase() on String prototype |
+| [Remove String Spaces](https://www.codewars.com/kata/57eae20f5500ad98e50002c5) | 8kyu | Remove all spaces from a string using regex |
 
 ---
 
