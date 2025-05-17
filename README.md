@@ -75,6 +75,7 @@ I consistently refactor and optimize my code, sometimes for efficiency, sometime
 | [Two Sum](https://www.codewars.com/kata/52c31f8e6605bcc646000082) | 6kyu | Find two indices whose values add up to the target |
 | [Is the string uppercase?](https://www.codewars.com/kata/56cd44e1aa4ac7879200010b) | 8kyu | Implement isUpperCase() on String prototype |
 | [Remove String Spaces](https://www.codewars.com/kata/57eae20f5500ad98e50002c5) | 8kyu | Remove all spaces from a string using regex |
+| [Mumbling](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039) | 7kyu | Format string to accum pattern with upper + lower repeats |
 
 ---
 
