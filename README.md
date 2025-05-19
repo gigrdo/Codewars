@@ -66,16 +66,15 @@ I consistently refactor and optimize my code, sometimes for efficiency, sometime
 | [`whoLikesIt.js`](./whoLikesIt.js) | - | - | - |
 | [`isIsogram.js`](./isIsogram.js) | check if a string is an isogram using Set and case normalization | `Set()`| 7kyu |
 | [`Function 2 - squaring an argument`](./squaringAnArgument.js) | Return the square of a number using multiplication | `square`| 8kyu |
-| [Remove the minimum](https://www.codewars.com/kata/563cf89eb4747c5fb100001b/train/javascript) | 7kyu | Remove the smallest number from an array without mutating it |
-| [You're a square!](https://www.codewars.com/kata/54c27a33fb7da0db0100040e) | 7kyu | Check if a number is a perfect square |
-| [`array.diff.js`](./arrayDiff.js) | filter values in array A that exist in B |
-| [Array.diff](https://www.codewars.com/kata/523f5d21c841566fde000009) | Remove all elements in A that exist in B | `filter()`, `includes()` | 6kyu |
-| [Counting sheep...](https://www.codewars.com/kata/54edbc7200b811e956000556) | 8kyu | Count the number of `true` values in an array |
-| [Bouncing Balls](https://www.codewars.com/kata/5544c7a5cb454edb3c000047) | 6kyu | Count how many times a ball passes in front of a window while bouncing |
-| [Two Sum](https://www.codewars.com/kata/52c31f8e6605bcc646000082) | 6kyu | Find two indices whose values add up to the target |
-| [Is the string uppercase?](https://www.codewars.com/kata/56cd44e1aa4ac7879200010b) | 8kyu | Implement isUpperCase() on String prototype |
-| [Remove String Spaces](https://www.codewars.com/kata/57eae20f5500ad98e50002c5) | 8kyu | Remove all spaces from a string using regex |
-| [Mumbling](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039) | 7kyu | Format string to accum pattern with upper + lower repeats |
+| [removeSmallest.js](./removeSmallest.js) | Remove the smallest number from an array without mutating it | `.indexOf()`, `.filter()`, `Math.min()` | 7kyu |
+| [isSquare.js](./isSquare.js) | Check if a number is a perfect square | `Math.sqrt()`, `Number.isInteger()` | 7kyu |
+| [arrayDiff.js](./arrayDiff.js) | Remove all elements in A that exist in B | `filter()`, `includes()` | 6kyu |
+| [countSheep.js](./countSheep.js) | Count the number of `true` values in an array | `.filter()`, boolean logic | 8kyu |
+| [bouncingBall.js](./bouncingBall.js) | Count how many times a ball passes in front of a window while bouncing | `while`, `Math`, control flow | 6kyu |
+| [twoSum.js](./twoSum.js) | Find two indices whose values add up to the target | nested loops, indexing, array traversal | 6kyu |
+| [isUpperCase.js](./isUpperCase.js) | Add a custom method to String prototype to check if it's uppercase | `String.prototype`, `this`, `.toUpperCase()` | 8kyu |
+| [noSpace.js](./noSpace.js) | Remove all spaces from a string | `.replace()`, RegEx, `.split().join()` | 8kyu |
+| [accum.js](./accum.js) | Format string to accum pattern with upper + lower repeats | `.map()`, `.repeat()`, `.toUpperCase()` | 7kyu |
 | [getMiddle.js](./getMiddle.js) | Return the middle character(s) of a string | `substring()`, `Math.floor()` | 7kyu |
 
 ---
