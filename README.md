@@ -76,6 +76,7 @@ I consistently refactor and optimize my code, sometimes for efficiency, sometime
 | [noSpace.js](./noSpace.js) | Remove all spaces from a string | `.replace()`, RegEx, `.split().join()` | 8kyu |
 | [accum.js](./accum.js) | Format string to accum pattern with upper + lower repeats | `.map()`, `.repeat()`, `.toUpperCase()` | 7kyu |
 | [getMiddle.js](./getMiddle.js) | Return the middle character(s) of a string | `substring()`, `Math.floor()` | 7kyu |
+| [alternatingCase.js](./alternatingCase.js) | Convert each letter to its opposite case | `String.prototype`, `.map()`, `.toUpperCase()`, `.toLowerCase()` | 8kyu |
 
 ---
 
