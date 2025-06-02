@@ -79,7 +79,7 @@ I consistently refactor and optimize my code, sometimes for efficiency, sometime
 | [alternatingCase.js](./alternatingCase.js) | Convert each letter to its opposite case | `String.prototype`, `.map()`, `.toUpperCase()`, `.toLowerCase()` | 8kyu |
 | [descendingOrder.js](./descendingOrder.js) | Rearrange digits of a number in descending order | `String()`, `.split()`, `.sort()`, `.reverse()`, `Number()` | 7kyu |
 | [countByX.js](./countByX.js) | Return the first `n` multiples of `x` in array form | `for` loop, `.push()`, multiplication | 8kyu |
-
+| [directionsReduction.js](./directionsReduction.js) | Simplify path by removing opposite directions | `stack`, object lookup, logic flow | 5kyu |
 ---
 
 ## Recent Learning Highlights
