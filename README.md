@@ -81,6 +81,7 @@ I consistently refactor and optimize my code, sometimes for efficiency, sometime
 | [countByX.js](./countByX.js) | Return the first `n` multiples of `x` in array form | `for` loop, `.push()`, multiplication | 8kyu |
 | [directionsReduction.js](./directionsReduction.js) | Simplify path by removing opposite directions | `stack`, object lookup, logic flow | 5kyu |
 | [isAnagram.js](./isAnagram.js) | Check if two words are anagrams | `.toLowerCase()`, `.split()`, `.sort()`, `.join()` | 7kyu |
+| [maxSequence.js](./maxSequence.js) | Find the maximum sum of a contiguous subarray | `Kadane’s algorithm`, `greedy`, `subarray sum` | 5kyu |
 ---
 
 ## Recent Learning Highlights
