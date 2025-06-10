@@ -83,6 +83,7 @@ I consistently refactor and optimize my code, sometimes for efficiency, sometime
 | [isAnagram.js](./isAnagram.js) | Check if two words are anagrams | `.toLowerCase()`, `.split()`, `.sort()`, `.join()` | 7kyu |
 | [maxSequence.js](./maxSequence.js) | Find the maximum sum of a contiguous subarray | `Kadane’s algorithm`, `greedy`, `subarray sum` | 5kyu |
 | [getSum.js](./getSum.js) | Return the sum of all integers between two numbers (inclusive) | `Math.min()`, `Math.max()`, `for loop` | 7kyu |
+| [convertStringToCamelCase.js](./convertStringToCamelCase.js) | Convert dash/underscore-delimited strings to camelCase | `replace()`, RegEx groups, callbacks | 6kyu |
 ---
 
 ## Recent Learning Highlights
