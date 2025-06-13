@@ -85,6 +85,7 @@ I consistently refactor and optimize my code, sometimes for efficiency, sometime
 | [getSum.js](./getSum.js) | Return the sum of all integers between two numbers (inclusive) | `Math.min()`, `Math.max()`, `for loop` | 7kyu |
 | [convertStringToCamelCase.js](./convertStringToCamelCase.js) | Convert dash/underscore-delimited strings to camelCase | `replace()`, RegEx groups, callbacks | 6kyu |
 | [extractTheDomainNameFromAUrl.js](./extractTheDomainNameFromAUrl.js) | Extract domain name from a full URL string | `.replace()`, `.split()` | 5kyu |
+| [testing123.js](./testing123.js) | Add line numbers to a list of strings | `for loop`, `.map()`, string interpolation | 7kyu |
 ---
 
 ## Recent Learning Highlights
