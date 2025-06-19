@@ -88,7 +88,8 @@ I consistently refactor and optimize my code, sometimes for efficiency, sometime
 | [testing123.js](./testing123.js) | Add line numbers to a list of strings | `for loop`, `.map()`, string interpolation | 7kyu |
 | [`digitize.js`](./digitize.js) | Convert a number into an array of its digits in reverse order | `String()`, `.split()`, `.reverse()`, `.map(Number)` | 8kyu |
 | [categorizeNewMember.js](./categorizeNewMember.js) → Categorize club members as 'Senior' or 'Open' based on age and handicap.
-- [friendOrNot.js](./friendOrNot.js) → Return only names with exactly 4 letters from a list. | `filter()` | 7kyu
+| [friendOrNot.js](./friendOrNot.js) → Return only names with exactly 4 letters from a list. | `filter()` | 7kyu
+| [reverseListOrder.js](reverseListOrder.js) → Reverse a given list using `.reverse()`.
 ---
 
 ## Recent Learning Highlights
