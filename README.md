@@ -90,6 +90,7 @@ I consistently refactor and optimize my code, sometimes for efficiency, sometime
 | [categorizeNewMember.js](./categorizeNewMember.js) → Categorize club members as 'Senior' or 'Open' based on age and handicap.
 | [friendOrNot.js](./friendOrNot.js) → Return only names with exactly 4 letters from a list. | `filter()` | 7kyu
 | [reverseListOrder.js](reverseListOrder.js) → Reverse a given list using `.reverse()`.
+| [findTheMiddleElement.js](./findTheMiddleElement.js) | Return the index of the number that lies between the other two in a triplet | `[...arr]`, `.sort()`, `.indexOf()` | 8kyu |
 ---
 
 ## Recent Learning Highlights
