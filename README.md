@@ -92,6 +92,7 @@ I consistently refactor and optimize my code, sometimes for efficiency, sometime
 | [reverseListOrder.js](reverseListOrder.js) → Reverse a given list using `.reverse()`.
 | [findTheMiddleElement.js](./findTheMiddleElement.js) | Return the index of the number that lies between the other two in a triplet | `[...arr]`, `.sort()`, `.indexOf()` | 8kyu |
 | [playingWithDigits.js](./playingWithDigits.js) | Return the multiplier k such that the powered digits of n equal k * n, or -1 | `Math.pow()`, `for loop`, `modulo %` | 6kyu |
+| [sortNumbers.js](./sortNumbers.js) | Sort numbers in ascending order, return empty array if input is null | `[...arr]`, `.sort()`, ternary `? :` | 8kyu |
 ---
 
 ## Recent Learning Highlights
