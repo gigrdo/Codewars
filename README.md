@@ -91,6 +91,7 @@ I consistently refactor and optimize my code, sometimes for efficiency, sometime
 | [friendOrNot.js](./friendOrNot.js) → Return only names with exactly 4 letters from a list. | `filter()` | 7kyu
 | [reverseListOrder.js](reverseListOrder.js) → Reverse a given list using `.reverse()`.
 | [findTheMiddleElement.js](./findTheMiddleElement.js) | Return the index of the number that lies between the other two in a triplet | `[...arr]`, `.sort()`, `.indexOf()` | 8kyu |
+| [playingWithDigits.js](./playingWithDigits.js) | Return the multiplier k such that the powered digits of n equal k * n, or -1 | `Math.pow()`, `for loop`, `modulo %` | 6kyu |
 ---
 
 ## Recent Learning Highlights
