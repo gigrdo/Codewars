@@ -94,6 +94,7 @@ I consistently refactor and optimize my code, sometimes for efficiency, sometime
 | [playingWithDigits.js](./playingWithDigits.js) | Return the multiplier k such that the powered digits of n equal k * n, or -1 | `Math.pow()`, `for loop`, `modulo %` | 6kyu |
 | [sortNumbers.js](./sortNumbers.js) | Sort numbers in ascending order, return empty array if input is null | `[...arr]`, `.sort()`, ternary `? :` | 8kyu |
 | [sumMixedArray.js](./sumMixedArray.js) | Sum numbers and strings as if all were numbers | `.reduce()`, `Number()` | 8kyu |
+| [reverseWordsInAString.js](./reverseWordsInAString.js) | Reverse each word in a string without changing their order | `.split()`, `.map()`, `.reverse()`, `.join()` | 7kyu |
 
 ---
 
