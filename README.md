@@ -96,6 +96,7 @@ I consistently refactor and optimize my code, sometimes for efficiency, sometime
 | [sumMixedArray.js](./sumMixedArray.js) | Sum numbers and strings as if all were numbers | `.reduce()`, `Number()` | 8kyu |
 | [reverseWordsInAString.js](./reverseWordsInAString.js) | Reverse each word in a string without changing their order | `.split()`, `.map()`, `.reverse()`, `.join()` | 7kyu |
 | [nameShuffler.js](./nameShuffler.js) | Reverse order of first and last name in a string | `.split()`, `.reverse()`, `.join()` | 8kyu |
+| [getLetterGrade.js](./getLetterGrade.js) | Return letter grade based on average of three scores | average calculation, `if` statements | 8kyu |
 
 ---
 
