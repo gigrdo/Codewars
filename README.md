@@ -97,6 +97,7 @@ I consistently refactor and optimize my code, sometimes for efficiency, sometime
 | [reverseWordsInAString.js](./reverseWordsInAString.js) | Reverse each word in a string without changing their order | `.split()`, `.map()`, `.reverse()`, `.join()` | 7kyu |
 | [nameShuffler.js](./nameShuffler.js) | Reverse order of first and last name in a string | `.split()`, `.reverse()`, `.join()` | 8kyu |
 | [getLetterGrade.js](./getLetterGrade.js) | Return letter grade based on average of three scores | average calculation, `if` statements | 8kyu |
+| [longestConsecutiveStrings.js](./longestConsecutiveStrings.js) | Return the longest string formed by k consecutive strings | `.slice()`, `.join()`, loop, length comparison | 6kyu |
 
 ---
 
