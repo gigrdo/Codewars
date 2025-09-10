@@ -100,6 +100,7 @@ I consistently refactor and optimize my code, sometimes for efficiency, sometime
 | [longestConsecutiveStrings.js](./longestConsecutiveStrings.js) | Return the longest string formed by k consecutive strings | `.slice()`, `.join()`, loop, length comparison | 6kyu |
 | [gooseFilter.js](./gooseFilter.js) | Filter out geese from an array of bird names | `.filter()`, `.includes()`, array exclusion | 8kyu |
 | [crashOverride.js](./crashOverride.js) | Generate hacker alias based on name initials using predefined objects | `.toUpperCase()`, `.match()`, object lookup | 8kyu |
+| [getVolumeOfCuboid.js](./getVolumeOfCuboid.js) | Calculate cuboid volume using a static method in a class | `class`, `static`, multiplication | 8kyu |
 
 ---
 
