@@ -103,6 +103,7 @@ I consistently refactor and optimize my code, sometimes for efficiency, sometime
 | [getVolumeOfCuboid.js](./getVolumeOfCuboid.js) | Calculate cuboid volume using a static method in a class | `class`, `static`, multiplication | 8kyu |
 | [removeUrlAnchor.js](./removeUrlAnchor.js) | Remove everything after '#' in a URL string | `.split()`, `[0]`, string manipulation | 8kyu |
 | [findTheNeedle.js](./findTheNeedle.js) | Find the index of "needle" in an array and return message | `.indexOf()`, template literals | 8kyu |
+| [endsWithCheck.js](./endsWithCheck.js) | Return true if string ends with given substring | `.endsWith()` | 7kyu |
 
 ---
 
