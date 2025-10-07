@@ -105,6 +105,7 @@ I consistently refactor and optimize my code, sometimes for efficiency, sometime
 | [findTheNeedle.js](./findTheNeedle.js) | Find the index of "needle" in an array and return message | `.indexOf()`, template literals | 8kyu |
 | [endsWithCheck.js](./endsWithCheck.js) | Return true if string ends with given substring | `.endsWith()` | 7kyu |
 | [greetUser.js](./greetUser.js) | Greet user by name using template literals | template literals, string interpolation | 8kyu |
+| [declareWinner.js](./declareWinner.js) | Determine winner between two fighters using turn-based attacks | `class`, `.name`, `.damagePerAttack`, loop logic | 7kyu |
 
 ---
 
